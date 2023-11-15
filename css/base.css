@@ -1,0 +1,19 @@
+:root{
+
+    --branco: #FFF;
+    --cinza:#252525;
+    --preto: black;
+    --azul-claro:#33A8DB;
+    --azul-medio:#1472B7;
+    --azul-escuro:#33a8db80;
+
+
+    
+    font-family: 'Italiana', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container{
+    padding-right: 5%;
+    padding-left: 5%;
+}
